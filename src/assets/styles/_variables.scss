@@ -1,0 +1,9 @@
+:root {
+  --color-white: #fff;
+  --color-black: #000;
+  --anim-primary: 0.25s ease-in-out;
+}
+
+$color-white: var(--color-white);
+$color-black: var(--color-black);
+$anim-primary: var(--anim-primary);

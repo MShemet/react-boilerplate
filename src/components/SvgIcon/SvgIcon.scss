@@ -1,0 +1,13 @@
+.svg-icon {
+  flex-shrink: 0;
+
+  &--sm {
+    width: 16px;
+    height: 16px;
+  }
+
+  &--md {
+    width: 24px;
+    height: 24px;
+  }
+}

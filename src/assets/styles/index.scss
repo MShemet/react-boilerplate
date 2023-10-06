@@ -1,0 +1,9 @@
+@import './reset';
+@import './fonts';
+@import './variables';
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-size-adjust: 100%;
+}
